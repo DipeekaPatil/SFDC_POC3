@@ -1,0 +1,117 @@
+{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 2",
+  "url": null,
+  "subsidiary": null,
+  "territory": null
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": null,
+  "subsidiary": null,
+  "territory": null
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": null,
+  "subsidiary": null,
+  "territory": null
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": null,
+  "subsidiary": null,
+  "territory": null
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": null,
+  "subsidiary": null,
+  "territory": null
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": null,
+  "subsidiary": null,
+  "territory": null,
+  "enddate": "2016-2-16",
+  "currency": null
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "companyname": "test",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "companyname": "test1",
+  "custentity_msastatus": "executed",
+  "custentity_clientpartner": "dipeeka 3",
+  "url": "google.com",
+  "subsidiary": "Brillio",
+  "territory": "US",
+  "enddate": "2016-2-16",
+  "currency": "USD"
+}{
+  "CompanyName": "sample string 1",
+  "CustentityMsaStatus": "sample string 2",
+  "CustentityClientPartner": "sample string 3",
+  "Url": "sample string 4",
+  "Subsidiary": "sample string 5",
+  "Territory": "sample string 6",
+  "EndDate": "sample string 7",
+  "Currency": "sample string 8"
+}
